@@ -26,10 +26,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yachitzu&show_icons=true&theme=tokyonight&text_color=b2a4ff&locale=en" alt="yachitzu" /></p>
 
 <h1 align="left">🏆 Logros</h1>
