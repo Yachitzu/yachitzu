@@ -16,13 +16,11 @@
 <h1 align="left"> Mis Proyectos</h1>
 
 🚧 Próximamente 👷‍♂️
-
+<br>
 <h1 align="left">📈 Estadísticas</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yachitzu&show_icons=true&theme=tokyonight&text_color=aea8ff&locale=en&layout=compact" alt="yachitzu" /></p><br>
-</br>
-<br>
-<br>
-<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yachitzu&show_icons=true&theme=tokyonight&text_color=aea8ff&locale=en&layout=compact" alt="yachitzu" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yachitzu&show_icons=true&theme=tokyonight&text_color=b2a4ff&locale=en" alt="yachitzu" /></p>
 
 <h1 align="left">🏆 Logros</h1>
@@ -30,7 +28,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yachitzu&theme=onedark" alt="yachitzu" /></a>
   
   <h1 align="left">📫 Contáctame</h1>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/tefymora6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tefymora6" height="30" width="40" /></a>
 <a href="https://instagram.com/tefymora6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tefymora6" height="30" width="40" /></a>
 
