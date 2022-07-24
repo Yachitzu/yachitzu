@@ -18,6 +18,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yachitzu&show_icons=true&locale=en&layout=compact" alt="yachitzu" /></p>
 <br>
+
+
+
+
 <h1 align="left">📈 Estadísticas </h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yachitzu&show_icons=true&locale=en" alt="yachitzu" /></p>
