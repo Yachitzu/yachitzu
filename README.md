@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yachitzu&show_icons=true&theme=tokyonight&text_color=b2a4ff&locale=en" alt="yachitzu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yachitzu&theme=dark" alt="yachitzu" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yachitzu&label=Profile%20views&color=b2a4ff&style=flat" alt="yachitzu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yachitzu" alt="yachitzu" /></a> </p>
