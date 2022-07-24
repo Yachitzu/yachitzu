@@ -18,7 +18,8 @@
 🚧 Próximamente 👷‍♂️
 
 <h1 align="left">📈 Estadísticas</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yachitzu&show_icons=true&theme=tokyonight&text_color=aea8ff&locale=en&layout=compact" alt="yachitzu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yachitzu&show_icons=true&theme=tokyonight&text_color=aea8ff&locale=en&layout=compact" alt="yachitzu" /></p><br>
+</br>
 <br>
 <br>
 <br>
@@ -26,7 +27,7 @@
 
 <h1 align="left">🏆 Logros</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yachitzu" alt="yachitzu" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yachitzu&theme=onedark" alt="yachitzu" /></a>
   
   <h1 align="left">📫 Contáctame</h1>
 <p align="left">
