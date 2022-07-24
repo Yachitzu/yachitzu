@@ -16,9 +16,12 @@
 
 <h1 align="left">⚙ Lenguajes más usados: </h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yachitzu&show_icons=true&locale=en&layout=compact" alt="yachitzu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yachitzu&show_icons=true&locale=en&layout=compact" alt="yachitzu" /></p><br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 
 
 
