@@ -11,11 +11,8 @@
 <br clear="left"/>
 <br clear="left"/>
 
-###
 
 <h2 align="left">🧠 About Me</h2>
-
-
 
 
 <p align="left">🔭 I’m currently working on academic projects related to artificial intelligence and network security.<br><br>🤝 I’d like to collaborate on projects where I can keep learning about web development, data analysis, or cybersecurity.<br><br>🌱 I’m deepening my knowledge of machine learning and sensor networks, while strengthening my backend development skills.<br><br>💬 Ask me about Python scraping, basic networking and security concepts, or technical writing with LaTeX.<br><br>⚡ Fun fact: I love solving complex problems efficiently — and I hate cold water more than false positives 😅</p>
