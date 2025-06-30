@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="220" valign="top">
+    <td width="320" valign="top">
       <img height="200" src="https://dl.glitter-graphics.com/pub/3380/3380616flsbc0hjgl.gif" alt="gif" />
     </td>
     <td width="1000">
