@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img align="left" height="224" src="https://dl.glitter-graphics.com/pub/3380/3380616flsbc0hjgl.gif"  />
 
 ###
