@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, Me llamo Estefanía Mora</h1>
-<h3 align="center">Una estudiante de Ingeniería en Software</h3>
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Estefanía Mora</h1>
+<h3 align="center">A Software Engineering student.</h3>
+💫 About Me:
 🔭 I’m currently working on academic projects related to artificial intelligence and network security.<br><br>🤝 I’d like to collaborate on projects where I can keep learning about web development, data analysis, or cybersecurity.<br><br>🌱 I’m deepening my knowledge of machine learning and sensor networks, while strengthening my backend development skills.<br><br>💬 Ask me about Python scraping, basic networking and security concepts.<br><br>⚡ Fun fact: I love solving complex problems efficiently — and I hate cold water more than false positives 😅<br>
 
 
