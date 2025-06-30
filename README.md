@@ -100,10 +100,11 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yachitzu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yachitzu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=yachitzu&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yachitzu&theme=github_dark&hide_border=true&custom_title=Stats" width="582" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yachitzu&layout=compact&card_width=300&theme=github_dark&hide_border=true" width="582" />
+  <img src="https://streak-stats.demolab.com?user=yachitzu&theme=github_dark&hide_border=true" width="350" />
 </div>
+
 
 ###
 
