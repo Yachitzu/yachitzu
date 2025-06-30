@@ -3,7 +3,7 @@
     <td width="220" valign="top">
       <img height="200" src="https://dl.glitter-graphics.com/pub/3380/3380616flsbc0hjgl.gif" alt="gif" />
     </td>
-    <td width="200">
+    <td width="1000">
       <h1>Hey 👋 What's up?</h1>
       <p>
         My name is <strong>Estefanía Mora</strong> and I'm a Software Engineering student from Ecuador.
