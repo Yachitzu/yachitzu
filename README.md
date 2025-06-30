@@ -8,6 +8,8 @@
 
 <!-- Esto limpia el flujo flotante de la imagen para evitar que lo siguiente se superponga -->
 <br clear="left"/>
+<br clear="left"/>
+<br clear="left"/>
 
 ---
 
