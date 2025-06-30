@@ -1,4 +1,4 @@
-<img align="left" height="224" src="https://dl.glitter-graphics.com/pub/3380/3380616flsbc0hjgl.gif" />
+<img align="right" height="224" src="https://dl.glitter-graphics.com/pub/3380/3380616flsbc0hjgl.gif" />
 
 <h1 align="center">Hey 👋 What's up?</h1>
 <p align="right">
