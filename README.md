@@ -1,9 +1,9 @@
-<table style="width: 100%; border: none;">
+<table>
   <tr>
-    <td style="width: 224px; padding-right: 20px; border: none;">
+    <td width="224" style="vertical-align: top; padding-right: 20px;">
       <img height="200" src="https://dl.glitter-graphics.com/pub/3380/3380616flsbc0hjgl.gif" />
     </td>
-    <td style="border: none;">
+    <td>
       <h1>Hey 👋 What's up?</h1>
       <p>
         My name is <strong>Estefanía Mora</strong> and I'm a Software Engineering student from Ecuador.
@@ -11,6 +11,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
