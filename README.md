@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">👩‍💻 I code with</h2>
 
 ###
 
@@ -95,7 +95,7 @@
 
 ###
 
-<h2 align="left">Github Stats</h2>
+<h2 align="left">📈 Github Stats</h2>
 
 ###
 
@@ -111,7 +111,7 @@
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 align="left">🌐 Socials</h2>
 
 ###
 
