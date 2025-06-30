@@ -6,11 +6,13 @@
   My name is <strong>Estefanía Mora</strong> and I'm a Software Engineering student from Ecuador.
 </p>
 
+<!-- Esto limpia el flujo flotante de la imagen para evitar que lo siguiente se superponga -->
 <br clear="left"/>
 
 ---
 
 <h2 align="left">🧠 About Me</h2>
+
 
 
 
