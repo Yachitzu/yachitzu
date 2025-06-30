@@ -1,8 +1,6 @@
 <br clear="both"/>
-
-<div style="margin-right: 20px; float: left;">
-  <img height="224" src="https://dl.glitter-graphics.com/pub/3380/3380616flsbc0hjgl.gif" />
-</div>
+<img align="left" height="224" src="https://dl.glitter-graphics.com/pub/3380/3380616flsbc0hjgl.gif" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
