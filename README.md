@@ -101,7 +101,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yachitzu&theme=github_dark&hide_border=true&custom_title=Stats" width="382" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yachitzu&layout=compact&card_width=300&theme=github_dark&hide_border=true" width="382" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yachitzu&layout=compact&card_width=300&theme=github_dark&hide_border=true" width="282" />
   <img src="https://streak-stats.demolab.com?user=yachitzu&theme=github_dark&hide_border=true" width="350" />
 </div>
 
