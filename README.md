@@ -1,15 +1,17 @@
+<table>
+  <tr>
+    <td width="220" valign="top">
+      <img height="200" src="https://dl.glitter-graphics.com/pub/3380/3380616flsbc0hjgl.gif" alt="gif" />
+    </td>
+    <td>
+      <h1>Hey 👋 What's up?</h1>
+      <p>
+        My name is <strong>Estefanía Mora</strong> and I'm a Software Engineering student from Ecuador.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <img src="https://dl.glitter-graphics.com/pub/3380/3380616flsbc0hjgl.gif" height="200" style="float: left; margin-right: 20px;"/>
-  
-  <h1>Hey 👋 What's up?</h1>
-  
-  <p>
-    My name is <strong>Estefanía Mora</strong> and I'm a Software Engineering student from Ecuador.
-  </p>
-</div>
-
-<br clear="both"/>
 
 
 
