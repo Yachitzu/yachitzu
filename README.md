@@ -17,8 +17,8 @@
 
 <!-- 🧠 ABOUT ME -->
 <h2 align="left">
-  <img src="[https://your-aboutme-icon.gif](https://cdn.pixabay.com/animation/2023/06/01/08/46/08-46-22-123_512.gif)" height="28" style="vertical-align: middle;" />
-  &nbsp;🧠 About Me
+  <img src="https://cdn.pixabay.com/animation/2023/06/01/08/46/08-46-22-123_512.gif" height="28" style="vertical-align: middle;" />
+  &nbsp; About Me
 </h2>
 
 <p align="left">
@@ -34,7 +34,7 @@
 <!-- 👩‍💻 I CODE WITH -->
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/Naman27/Naman27/master/source.gif" height="28" style="vertical-align: middle;" />
-  &nbsp;👩‍💻 I code with
+  &nbsp; I code with
 </h2>
 
 <!-- FRONTEND -->
@@ -122,7 +122,7 @@
 <!-- 📈 GITHUB STATS -->
 <h2 align="left">
   <img src="https://camo.githubusercontent.com/d0cd2b9a7609a767d6b54e0408a6e25f1fcd99599f7e8e85e3d3abeb335aa338/68747470733a2f2f63646e2e706978616261792e636f6d2f616e696d6174696f6e2f323032332f30362f31332f31352f31332f31352d31332d31332d3532325f3531322e676966" height="28" style="vertical-align: middle;" />
-  &nbsp;📈 GitHub Stats
+  &nbsp; GitHub Stats
 </h2>
 
 <div align="center">
@@ -138,7 +138,7 @@
 <!-- 🌐 SOCIALS -->
 <h2 align="left">
   <img src="https://animaticons.co/animat-rocket-color.gif" height="28" style="vertical-align: middle;" />
-  &nbsp;🌐 Socials
+  &nbsp; Socials
 </h2>
 
 <div align="center">
