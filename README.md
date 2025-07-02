@@ -137,7 +137,7 @@
 
 <!-- 🌐 SOCIALS -->
 <h2 align="left">
-  <img src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-30-808_512.gif" height="28" style="vertical-align: middle;" />
+  <img src="https://static.showit.co/file/_ECyv8MutxaZ0KIfThsLuA/150370/email_icon_color_gif.gif" height="28" style="vertical-align: middle;" />
   &nbsp; Socials
 </h2>
 
