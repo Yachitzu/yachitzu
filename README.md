@@ -155,3 +155,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
   </a>
 </div>
+
+
+<p align="center">
+  Hecho con ❤️ por [Estefanía Mora](https://github.com/yachitzu)
+</p>
+<p align="center">
+  <img src="assets/footer-animation.gif" width="300" alt="Gracias por visitar" />
+</p>
