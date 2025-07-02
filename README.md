@@ -156,10 +156,11 @@
   </a>
 </div>
 
-
+<br>
+<br>
 <p align="center">
   Hecho con ❤️ por [Estefanía Mora](https://github.com/yachitzu)
 </p>
 <p align="center">
-  <img src="assets/footer-animation.gif" width="300" alt="Gracias por visitar" />
+  <img src="assets/footer.gif" width="300" alt="Gracias por visitar" />
 </p>
