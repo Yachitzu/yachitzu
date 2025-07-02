@@ -137,7 +137,7 @@
 
 <!-- 🌐 SOCIALS -->
 <h2 align="left">
-  <img src="https://static.showit.co/file/_ECyv8MutxaZ0KIfThsLuA/150370/email_icon_color_gif.gif" height="28" style="vertical-align: middle;" />
+  <img src="https://i.pinimg.com/originals/91/fd/43/91fd43ebd22734dd4cadfcb67eea4aff.gif" height="28" style="vertical-align: middle;" />
   &nbsp; Socials
 </h2>
 
