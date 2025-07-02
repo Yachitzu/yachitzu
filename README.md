@@ -8,7 +8,7 @@
       </p>
     </td>
     <td width="320" valign="top">
-      <img height="200" src="https://dl.glitter-graphics.com/pub/3380/3380616flsbc0hjgl.gif" alt="gif" />
+      <img height="200" src="https://img1.picmix.com/output/stamp/normal/1/8/7/0/2170781_d73a3.gif" alt="gif" />
     </td>
   </tr>
 </table>
