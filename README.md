@@ -161,9 +161,10 @@
 </div>
 
 <br>
-<br>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6f/e1/6b/6fe16bc3c39b604e6cd167d371fc9c33.gif" width="900" alt="Gracias por visitar" />
+  <img src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif" width="250" alt="Decoración izquierda" />
+  <img src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif" width="250" alt="Decoración central" />
+  <img src="[https://dividers.carrd.co/assets/images/image03.gif?v=c6b81839](https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif)" width="250" alt="Decoración derecha" />
 </p>
 
 
