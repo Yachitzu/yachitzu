@@ -162,9 +162,9 @@
 
 <br>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif" width="260"  height="80" alt="Decoración izquierda" />
-  <img src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif" width="260"  height="80" alt="Decoración central" />
-  <img src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif" width="260"  height="80"alt="Decoración derecha" />
+  <img src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif" width="260"  height="100" alt="Decoración izquierda" />
+  <img src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif" width="260"  height="100" alt="Decoración central" />
+  <img src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif" width="260"  height="100"alt="Decoración derecha" />
 </p>
 
 
