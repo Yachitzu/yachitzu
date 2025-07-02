@@ -163,7 +163,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6f/e1/6b/6fe16bc3c39b604e6cd167d371fc9c33.gif" width="300" alt="Gracias por visitar" />
+  <img src="https://i.pinimg.com/originals/6f/e1/6b/6fe16bc3c39b604e6cd167d371fc9c33.gif" width="900" alt="Gracias por visitar" />
 </p>
 
 
