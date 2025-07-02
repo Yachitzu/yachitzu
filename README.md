@@ -39,8 +39,8 @@
 
 <!-- FRONTEND -->
 <h3 align="left">
-  <img src="https://your-frontend-icon.gif" height="25" style="vertical-align: middle;" />
-  &nbsp;🖥️ Frontend
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/94bfc886678585.5da092589fb02.gif" height="25" style="vertical-align: middle;" />
+  &nbsp; Frontend
 </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
@@ -54,8 +54,8 @@
 
 <!-- BACKEND -->
 <h3 align="left">
-  <img src="https://your-backend-icon.gif" height="25" style="vertical-align: middle;" />
-  &nbsp;🛠️ Backend
+  <img src="https://static.showit.co/file/hxPF40iZQgKI-FVA9_kO9w/78210/gear.gif" height="25" style="vertical-align: middle;" />
+  &nbsp; Backend
 </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" />
@@ -68,8 +68,8 @@
 
 <!-- TOOLS -->
 <h3 align="left">
-  <img src="https://your-tools-icon.gif" height="25" style="vertical-align: middle;" />
-  &nbsp;🧰 Tools & Platforms
+  <img src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-54-327_512.gif" height="25" style="vertical-align: middle;" />
+  &nbsp; Tools & Platforms
 </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
@@ -82,8 +82,8 @@
 
 <!-- DATA & AI -->
 <h3 align="left">
-  <img src="https://your-data-icon.gif" height="25" style="vertical-align: middle;" />
-  &nbsp;📊 Data & AI
+  <img src="https://i.pinimg.com/originals/79/04/42/7904424933cc535b666f2de669973530.gif" height="25" style="vertical-align: middle;" />
+  &nbsp; Data & AI
 </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" />
@@ -95,8 +95,8 @@
 
 <!-- DESIGN -->
 <h3 align="left">
-  <img src="https://your-design-icon.gif" height="25" style="vertical-align: middle;" />
-  &nbsp;🎨 Design
+  <img src="https://moein.video/wp-content/uploads/2021/12/Color-Sample-GIF-Royalty-Free-Animated-Icon-350px-after-effects-project-2.gif" height="25" style="vertical-align: middle;" />
+  &nbsp; Design
 </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" />
@@ -106,8 +106,8 @@
 
 <!-- OTHERS -->
 <h3 align="left">
-  <img src="https://your-others-icon.gif" height="25" style="vertical-align: middle;" />
-  &nbsp;📚 Others
+  <img src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-34-590_512.gif" height="25" style="vertical-align: middle;" />
+  &nbsp; Others
 </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="45" />
