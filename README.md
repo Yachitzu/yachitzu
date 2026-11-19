@@ -8,7 +8,7 @@
     <td width="1000">
       <h1>Hey 👋 What's up?</h1>
       <p>
-        My name is <strong>Estefanía Mora</strong> and I'm a Software Engineering student from Ecuador.
+        My name is <strong>Estefanía Mora</strong> and I'm a Software Engineer from Ecuador.
       </p>
     </td>
     <td width="320" valign="top">
@@ -26,11 +26,11 @@
 </h2>
 
 <p align="left">
-  🔭 I’m currently working on academic projects related to artificial intelligence and network security.<br><br>
-  🤝 I’d like to collaborate on projects where I can keep learning about web development, data analysis, or cybersecurity.<br><br>
-  🌱 I’m deepening my knowledge of machine learning and sensor networks, while strengthening my backend development skills.<br><br>
-  💬 Ask me about Python scraping, basic networking and security concepts, or technical writing with LaTeX.<br><br>
-  ⚡ Fun fact: I love solving complex problems efficiently — and I hate cold water more than false positives 😅
+  📄 I recently wrote my first research paper, and I'm already plotting what the next one should break (or fix).<br><br>
+  🤝 Open to collaborating on projects where web development, data analysis, or cybersecurity collide, especially if there's a good problem to untangle.<br><br>
+  🌱 Currently training models, listening to sensor networks, and teaching my backend code to behave under pressure.<br><br>
+  💬 Ask me about scraping the web with Python, how packets travel (and how they get intercepted), or why LaTeX makes technical writing feel like engineering.<br><br>
+  ⚡ Fun fact: I love solving complex problems efficiently. I hate cold water more than false positives 😅
 </p>
 
 ---
